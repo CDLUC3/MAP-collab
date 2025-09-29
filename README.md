@@ -5,4 +5,4 @@ Collaboration of projects related to the [Machine Actionable Plans (MAP) Pilot P
 
 Community space for partners to add in files, code, prototypes, and other materials to share with others.
 
-Issues can also be used to have conversations on specific topics.
+You can also start conversations in the Discussions tab.

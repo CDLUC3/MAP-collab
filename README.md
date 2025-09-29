@@ -5,7 +5,7 @@ Collaboration of projects related to the [Machine Actionable Plans (MAP) Pilot P
 
 Community space for partners to add in files, code, prototypes, and other materials to share with others.
 
-Issues can also be used to have conversations on specific topics.
+You can also start conversations in the Discussions tab.
 
 This community space was created as a result of requests from MAP pilot workshop participants (September 2025) for a place to collaborate and share resources and outcomes from their work exploring machine actionable data management plan use and integrations.
 

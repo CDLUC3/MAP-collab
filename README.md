@@ -3,7 +3,7 @@ Collaboration of projects related to the [Machine Actionable Plans (MAP) Pilot P
 
 <img width="2056" height="261" alt="arrow narrow" src="https://github.com/user-attachments/assets/97a719bb-f1a1-414a-a593-0e4584a55d95" />
 
-Community space for partners to add in files, code, prototypes, and other materials to share with others.
+Community space for partners to add in files, code, prototypes, and other materials to share with others.  See [Contribution Guidlines here](https://github.com/CDLUC3/MAP-collab/blob/main/CONTRIBUTING.md)
 
 You can also start conversations in the Discussions tab.
 
